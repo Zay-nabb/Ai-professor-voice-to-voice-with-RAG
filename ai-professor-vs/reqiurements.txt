@@ -1,0 +1,11 @@
+gtts
+pygame
+pyaudio
+numpy
+scipy
+faster-whisper
+llama-index
+qdrant-client
+ollama
+llama-index-vector-stores-qdrant
+llama-index-llms-ollama
