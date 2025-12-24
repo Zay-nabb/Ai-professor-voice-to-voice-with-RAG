@@ -1,0 +1,8 @@
+faster-whisper
+pyaudio
+numpy
+scipy
+requests
+pygame
+gtts
+python-dotenv
