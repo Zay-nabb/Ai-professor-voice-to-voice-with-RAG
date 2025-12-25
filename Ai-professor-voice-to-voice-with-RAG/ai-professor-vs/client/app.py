@@ -14,7 +14,7 @@ import voice_service as vs
 load_dotenv()
 
 # -------- CONFIG --------
-RAG_URL = os.getenv("RAG_SERVER_URL", "http://127.0.0.1:8000/rag")
+RAG_URL = os.getenv("RAG_SERVER_URL", "https://zaynab9-ai-professor-rag.hf.space/rag")
 MODEL_SIZE = os.getenv("WHISPER_MODEL_SIZE", "medium.en")
 # ------------------------
 
