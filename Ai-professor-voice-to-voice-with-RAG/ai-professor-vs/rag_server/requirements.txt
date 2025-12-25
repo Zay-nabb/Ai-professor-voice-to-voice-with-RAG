@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-qdrant-client
-llama-index
-llama-index-llms-groq
-llama-index-vector-stores-qdrant
-llama-index-embeddings-huggingface
-sentence-transformers
-python-dotenv
